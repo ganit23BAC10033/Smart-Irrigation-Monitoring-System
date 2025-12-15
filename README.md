@@ -96,7 +96,8 @@ An IoT-based irrigation system that monitors soil and environmental conditions a
  
 
 ```
-[https://your-video-link-here](https://drive.google.com/file/d/1jen30hEVT8F9dcb2YdfWV91jdFH5wXtY/view?usp=sharing)
+ https://drive.google.com/file/d/1jen30hEVT8F9dcb2YdfWV91jdFH5wXtY/view?usp=sharing
+
 ```
 
 ---
